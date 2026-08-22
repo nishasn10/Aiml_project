@@ -1,1 +1,1 @@
-Supervised Learning model (Aiml project)
+Supervised Learning model(Aiml project)
